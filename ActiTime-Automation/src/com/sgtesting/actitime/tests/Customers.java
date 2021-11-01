@@ -2,7 +2,7 @@ package com.sgtesting.actitime.tests;
 
 import org.openqa.selenium.WebDriver;
 
-public class Customers extends Initialization{
+public class Customers extends Initialize{
 	
 	/**
 	 * TestCase ID:
