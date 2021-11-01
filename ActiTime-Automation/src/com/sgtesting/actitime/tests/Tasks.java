@@ -2,7 +2,7 @@ package com.sgtesting.actitime.tests;
 
 import org.openqa.selenium.WebDriver;
 
-public class Tasks extends Initialization{
+public class Tasks extends Initialize{
 	
 	/**
 	 * TestCase ID:
